@@ -1,5 +1,5 @@
 ================================================================================
-                                                                *mdoom.nvim*
+                                                                    *mdoom.nvim*
 
 mdoom.nvim is a plugin for a very simple markdown preview. Development is in
 progress.
@@ -9,6 +9,6 @@ https://github.com/CMOISDEAD/md-nvim
 
   :h MDoom
 
-MDoom                                                          *AlphaHelloWorld*
+MDoom                                                                    *MDoom*
     Start markdown server
 ================================================================================
