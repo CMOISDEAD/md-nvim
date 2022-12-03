@@ -1,2 +1,2 @@
-local hello = require("mdoom.markdown")
-return hello
+local M = require("mdoom.markdown")
+return M
