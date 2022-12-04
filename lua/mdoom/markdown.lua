@@ -9,7 +9,8 @@ end
 
 function M.stopMD()
   -- Stop md server
-  print("Stop")
+  vim.cmd("AsyncStop")
+  print("Server stop")
 end
 
 return M
